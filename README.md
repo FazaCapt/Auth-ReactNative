@@ -9,3 +9,7 @@
 #### Resource:
 
 1. Tools Database: https://console.firebase.google.com/u/0/project/authentication-29e5e/overview
+
+#### Install: 
+
+1. npm install --save firebase
